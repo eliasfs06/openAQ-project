@@ -1,4 +1,4 @@
-# OpenAQ NGSI Adapter
+# OpenAQ  
 
 Este projeto tem como objetivo coletar dados de qualidade do ar da [API OpenAQ](https://docs.openaq.org), formatá-los no padrão [NGSI](https://fiware.github.io/specifications/ngsiv2/latest/) e prepará-los para integração com brokers contextuais como o FIWARE Orion.
 
